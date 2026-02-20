@@ -1,0 +1,13 @@
+177 rows has age missing data
+687 rows has cabin missing data
+I cleaned the ticket column of a-2 and special chaeacter using 
+regex and standardized the text to six by using str method and slice
+I filled nan at Age with fillna method
+
+explorative_Data_Analysis
+1.Which gender had a better chance of survival?
+314 female, 517 male
+2. Which social class had a better chance of survival?
+1=216, 2=184, 3=491
+3.Which age group had a better chance of survival?
+0-12=69, 13-18=17, young-aadults=, old=22
